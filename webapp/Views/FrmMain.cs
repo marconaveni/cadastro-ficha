@@ -50,6 +50,7 @@ namespace webapp.View
             //chrome = new ChromiumWebBrowser("https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_element_requestfullscreen_exit");
             //chrome = new ChromiumWebBrowser(page);
 
+
             this.panel1.Controls.Add(chrome);
             chrome.Dock = DockStyle.Fill;
 
